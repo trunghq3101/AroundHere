@@ -3,7 +3,7 @@
     <dimen name="search_radius">14dp</dimen>
     <dimen name="search_margin_side">16dp</dimen>
     <dimen name="search_margin_bot">12dp</dimen>
-    <dimen name="quick_search_icon_size">24dp</dimen>
+    <dimen name="quick_search_icon_size">32dp</dimen>
     <dimen name="quick_search_text_size">12sp</dimen>
     <dimen name="quick_search_padding_horizontal">24dp</dimen>
     <dimen name="quick_search_padding_vertical">12dp</dimen>

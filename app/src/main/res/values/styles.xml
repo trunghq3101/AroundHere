@@ -59,12 +59,13 @@
         <item name="android:background">@color/color_yellow_checkin</item>
         <item name="android:gravity">center_horizontal|center_vertical</item>
         <item name="android:textColor">@color/colorTextSecondary</item>
+        <item name="android:textStyle">bold</item>
     </style>
 
     <style name="QuickSearchIcon">
         <item name="android:layout_width">@dimen/quick_search_icon_size</item>
         <item name="android:layout_height">@dimen/quick_search_icon_size</item>
-        <item name="android:background">@android:color/transparent</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
     </style>
 
     <style name="QuickSearchText">
